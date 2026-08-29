@@ -1,0 +1,5 @@
+kaggle-environments>=1.29.0
+torch>=2.2
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
